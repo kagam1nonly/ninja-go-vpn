@@ -1,4 +1,4 @@
-Ninja Go VPN
+<div align="center"> Ninja Go VPN </div>
 
 <div align="center">
   <h2><strong>Home Page</strong></h2>
